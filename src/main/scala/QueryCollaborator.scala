@@ -1,5 +1,5 @@
 /**
- * Created by Gaberila & Grace on 3/29/2015.
+ * Created by Gabriela & Grace on 3/29/2015.
  * The input of QueryCollaborator is a user id and a distance. It should be able to find all user that are in the same organization.
  * as the query user or in an organization that is within the input distance, and has the same interest/skill as the query user.
  * The outputs are a list of user names, their common interests (skills) shared with the query user, ranked interest/skill weights. The formula for ranked common interest is the sum

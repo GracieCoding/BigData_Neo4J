@@ -1,5 +1,5 @@
 /**
- * Created by Gaberila & Grace on 3/26/2015.
+ * Created by Gabriela & Grace on 3/26/2015.
  * The input for DbLoader is six files for the data.
  * All you input data should use the same file names, headers, and formats.
  */
