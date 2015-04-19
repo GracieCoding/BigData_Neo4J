@@ -1,10 +1,12 @@
 /**
  * Created by Gaberila & Grace on 3/26/2015.
+ * The input for DbLoader is six files for the data.
+ * All you input data should use the same file names, headers, and formats.
  */
 
 import org.anormcypher._
 
-object Test {
+object DbLoader {
 
   def whatFile(fileName: String ): String = {
 
@@ -56,6 +58,13 @@ object Test {
     var skillFilePath = ""
     var projectFilePath = ""
     var fileType = " "
+
+    if (args.length == 0){
+      println("Usage: program path_To_InputFile path_To_InputFile2 path_To_InputFile3 path_To_InputFile4 path_To_InputFile5")
+      System.exit(1)
+
+    }
+
     for (i<-0 until args.length){
       fileType = whatFile(args(i))
       fileType match {
@@ -102,7 +111,6 @@ object Test {
 
     commandCont = " as line match (a: User {id: line[0]}) merge (pj:Project {project: line[1]}) create (a)-[r:worked_on]->(pj), (pj)-[rr:workers]->(a)"
     fullCommand = command.concat(projectFilePath).concat(commandCont)
-    println(fullCommand)
 
     //opening project file and putting the data into database
     Cypher(fullCommand).execute()

@@ -1,5 +1,7 @@
 /**
  * Created by Gaberila & Grace on 4/4/2015.
+ * The input of QueryColOfCol is a user id and at least one interest. The output is a list of user names that are "trusted colleagues
+ * -of-colleagues" and have one or more particular interest as the input user.
  */
 
 

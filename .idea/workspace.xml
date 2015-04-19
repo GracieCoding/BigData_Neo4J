@@ -2,90 +2,90 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86bf5dda-9fb9-4c30-b016-7f17e2b153db" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\project\target\config-classes\$8fb54f733763af7f27c7$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\project\target\config-classes\$8fb54f733763af7f27c7$.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\project\target\config-classes\$8fb54f733763af7f27c7.cache" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\project\target\config-classes\$8fb54f733763af7f27c7.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$00bf899359f11a41d4ec$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$00bf899359f11a41d4ec$.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$00bf899359f11a41d4ec.cache" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$00bf899359f11a41d4ec.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$2f60120b94176f7e0db1$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$2f60120b94176f7e0db1$.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$2f60120b94176f7e0db1.cache" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$2f60120b94176f7e0db1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$5ac23295941b1de1e5c4$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$5ac23295941b1de1e5c4$.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$5ac23295941b1de1e5c4.cache" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$5ac23295941b1de1e5c4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$61806ec36b4897c70497$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$61806ec36b4897c70497$.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$61806ec36b4897c70497.cache" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$61806ec36b4897c70497.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$72cfa2112bf0ea332cb2$$anonfun$$sbtdef$1.class" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$72cfa2112bf0ea332cb2$.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$72cfa2112bf0ea332cb2.cache" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$72cfa2112bf0ea332cb2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$7864640ee3f1d767ff98$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$7864640ee3f1d767ff98$.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$7864640ee3f1d767ff98.cache" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$7864640ee3f1d767ff98.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$abf67e32e5a70104b3b9$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$abf67e32e5a70104b3b9$.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$abf67e32e5a70104b3b9.cache" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$abf67e32e5a70104b3b9.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$b05ea1b7205d40cc8fb1$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$b05ea1b7205d40cc8fb1$.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$b05ea1b7205d40cc8fb1.cache" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$b05ea1b7205d40cc8fb1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$b06435eb3dc07fed92bb$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$b06435eb3dc07fed92bb$.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$b06435eb3dc07fed92bb.cache" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$b06435eb3dc07fed92bb.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$ee087022dbc29b6fdda5$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$ee087022dbc29b6fdda5$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$ee087022dbc29b6fdda5$.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$ee087022dbc29b6fdda5.cache" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$ee087022dbc29b6fdda5.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$f584adc3ae57418a1050$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$f584adc3ae57418a1050$.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$61806ec36b4897c70497$.class" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$f584adc3ae57418a1050.cache" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$f584adc3ae57418a1050.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\target\scala-2.11\classes\QueryColOfCol$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\target\scala-2.11\classes\QueryColOfCol$$anonfun$colOfcol$1$$anonfun$apply$mcVI$sp$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\target\scala-2.11\classes\QueryColOfCol$$anonfun$colOfcol$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\target\scala-2.11\classes\QueryColOfCol.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\target\scala-2.11\classes\QueryCollaborator$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\target\scala-2.11\classes\QueryCollaborator$$anonfun$2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\target\scala-2.11\classes\QueryCollaborator$$anonfun$queryCollaborator$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\target\scala-2.11\classes\QueryCollaborator$$anonfun$queryCollaborator$2$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\target\scala-2.11\classes\QueryCollaborator$$anonfun$queryCollaborator$2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\target\scala-2.11\classes\QueryCollaborator$$anonfun$queryCollaborator$3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\target\scala-2.11\classes\QueryCollaborator.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\target\scala-2.11\classes\Test$$anonfun$main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$b06435eb3dc07fed92bb$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$5ac23295941b1de1e5c4$.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$abf67e32e5a70104b3b9$.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$2f60120b94176f7e0db1$.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$61806ec36b4897c70497.cache" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\target\scala-2.11\classes\Test$.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$b06435eb3dc07fed92bb.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$b05ea1b7205d40cc8fb1$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/QueryCollaborator$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/QueryColOfCol.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\project\target\config-classes\$8fb54f733763af7f27c7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$2f60120b94176f7e0db1$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$72cfa2112bf0ea332cb2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\project\target\config-classes\$8fb54f733763af7f27c7$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$f584adc3ae57418a1050.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$61806ec36b4897c70497$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$abf67e32e5a70104b3b9$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\project\target\config-classes\$8fb54f733763af7f27c7$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/QueryCollaborator$$anonfun$queryCollaborator$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$00bf899359f11a41d4ec$.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$ee087022dbc29b6fdda5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$7864640ee3f1d767ff98.cache" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$abf67e32e5a70104b3b9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/QueryColOfCol$$anonfun$colOfcol$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$b05ea1b7205d40cc8fb1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$b06435eb3dc07fed92bb$.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$61806ec36b4897c70497.class" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\target\scala-2.11\classes\Test.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/QueryColOfCol.scala" afterPath="$PROJECT_DIR$/src/main/scala/QueryColOfCol.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/Test.scala" afterPath="$PROJECT_DIR$/src/main/scala/Test.scala" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$2f60120b94176f7e0db1.cache" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$7864640ee3f1d767ff98.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$72cfa2112bf0ea332cb2$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$7864640ee3f1d767ff98$.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$7864640ee3f1d767ff98$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$5ac23295941b1de1e5c4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$b06435eb3dc07fed92bb.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/QueryCollaborator$$anonfun$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$72cfa2112bf0ea332cb2.cache" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$abf67e32e5a70104b3b9.cache" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\target\scala-2.11\classes\QueryCollaborator$$anonfun$queryCollaborator$2$$anonfun$apply$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/QueryColOfCol$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$ee087022dbc29b6fdda5$.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$f584adc3ae57418a1050$.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$00bf899359f11a41d4ec.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$5ac23295941b1de1e5c4.cache" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$b05ea1b7205d40cc8fb1.cache" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$b05ea1b7205d40cc8fb1$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$f584adc3ae57418a1050$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/QueryColOfCol$$anonfun$colOfcol$1$$anonfun$apply$mcVI$sp$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$00bf899359f11a41d4ec.cache" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$5ac23295941b1de1e5c4$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$2f60120b94176f7e0db1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/QueryCollaborator$$anonfun$queryCollaborator$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\target\scala-2.11\classes\Test$$anonfun$main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$ee087022dbc29b6fdda5.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/QueryCollaborator.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\project\target\config-classes\$8fb54f733763af7f27c7.cache" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$00bf899359f11a41d4ec$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$ee087022dbc29b6fdda5$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/QueryCollaborator$$anonfun$queryCollaborator$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\project\target\config-classes\$ee087022dbc29b6fdda5$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\src\main\scala\Test.scala" afterPath="C:\Users\Grace\Documents\Git\Big_Data_Neo4j\src\main\scala\Test.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/QueryColOfCol.scala" afterPath="$PROJECT_DIR$/src/main/scala/QueryColOfCol.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
     </list>
     <ignored path="untitled3.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -101,6 +101,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/untitled3$DbLoader.coverage" NAME="DbLoader Coverage Results" MODIFIED="1429458263038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -116,19 +119,21 @@
       <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="374">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
               <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
+      <file leaf-file-name="DbLoader.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/DbLoader.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.75" vertical-offset="1394" max-vertical-offset="2567">
-              <caret line="102" column="150" selection-start-line="102" selection-start-column="150" selection-end-line="102" selection-end-column="150" />
-              <folding />
+            <state vertical-scroll-proportion="0.14886165" vertical-offset="0" max-vertical-offset="2737">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,8 +141,8 @@
       <file leaf-file-name="QueryCollaborator.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/QueryCollaborator.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
+              <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -146,8 +151,8 @@
       <file leaf-file-name="QueryColOfCol.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/QueryColOfCol.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="646">
-              <caret line="17" column="119" selection-start-line="17" selection-start-column="119" selection-end-line="17" selection-end-column="119" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+              <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -161,10 +166,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/QueryCollaborator.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/QueryColOfCol.scala" />
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/Test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/DbLoader.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/QueryCollaborator.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/QueryColOfCol.scala" />
       </list>
     </option>
   </component>
@@ -287,10 +293,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -351,17 +353,17 @@
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Torture" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="options.lastSelected" value="preferences.pathVariables" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.DbLoader">
+    <configuration default="false" name="DbLoader" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="DbLoader" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/Downloads/user.csv $USER_HOME$/Downloads/organization.csv $USER_HOME$/Downloads/distance.csv $USER_HOME$/Downloads/interest.csv $USER_HOME$/Downloads/skill.csv $USER_HOME$/Downloads/project.csv    " />
+      <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
@@ -370,7 +372,9 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="big_data_neo4j" />
       <envs />
+      <RunnerSettings RunnerId="Cover" />
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Cover" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -576,11 +580,11 @@
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DbLoader" />
     </list>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DbLoader" />
       </list>
     </recent_temporary>
   </component>
@@ -629,25 +633,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3251634" sideWeight="0.4996215" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3251634" sideWeight="0.49924356" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26633987" sideWeight="0.27403483" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26633987" sideWeight="0.27609682" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26633987" sideWeight="0.7259652" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26633987" sideWeight="0.7239032" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25283876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25189108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981076" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -660,30 +665,31 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5003785" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26633987" sideWeight="0.27609682" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981076" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3251634" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3251634" sideWeight="0.49924356" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25490198" sideWeight="0.4996215" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26633987" sideWeight="0.7239032" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25283876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2526475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329296" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
@@ -716,18 +722,18 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.sbt">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/QueryColOfCol.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="340">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="680">
+          <caret line="17" column="119" selection-start-line="17" selection-start-column="119" selection-end-line="17" selection-end-column="119" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="340">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -756,14 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2125" max-vertical-offset="2227">
-          <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/QueryCollaborator.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="459">
@@ -788,14 +786,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1564" max-vertical-offset="1989">
-          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/QueryCollaborator.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="459">
@@ -808,14 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
           <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -836,10 +818,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/QueryCollaborator.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="697">
-          <caret line="18" column="99" selection-start-line="18" selection-start-column="99" selection-end-line="18" selection-end-column="99" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
           <folding />
         </state>
       </provider>
@@ -860,14 +850,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="697">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/QueryCollaborator.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
@@ -880,38 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
           <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="697">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/QueryCollaborator.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
-          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -932,14 +882,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="510">
-          <caret line="15" column="153" selection-start-line="15" selection-start-column="153" selection-end-line="15" selection-end-column="153" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/QueryCollaborator.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="306">
@@ -952,14 +894,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
           <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="510">
-          <caret line="15" column="153" selection-start-line="15" selection-start-column="153" selection-end-line="15" selection-end-column="153" />
           <folding />
         </state>
       </provider>
@@ -980,10 +914,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
           <folding />
         </state>
       </provider>
@@ -996,10 +930,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
           <folding />
         </state>
       </provider>
@@ -1012,58 +946,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
           <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
-          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
-          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1075,13 +961,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/organization.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="428">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
@@ -1090,27 +969,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/QueryCollaborator.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/QueryColOfCol.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="646">
-          <caret line="17" column="119" selection-start-line="17" selection-start-column="119" selection-end-line="17" selection-end-column="119" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Test.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/QueryCollaborator.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75" vertical-offset="1394" max-vertical-offset="2567">
-          <caret line="102" column="150" selection-start-line="102" selection-start-column="150" selection-end-line="102" selection-end-column="150" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/DbLoader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14886165" vertical-offset="0" max-vertical-offset="2737">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
