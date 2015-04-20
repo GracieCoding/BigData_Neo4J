@@ -41,7 +41,7 @@ class QueryCollaborator {
     }
 
     infoList = infoList.sortBy(x=> x._1)
-
+    println()
     println("Ordered by Total Ranking (full name => interest/skill -> ranked level => Organization)")
     for (i <-infoList.length-1 to 0 by -1){
       println(infoList(i)._1)
