@@ -28,24 +28,29 @@ class QueryColOfCol {
     val stream3 = cyphie3()
     var myFinalList = stream3.map(row=>{row[String]("name")->row[String]("lname")->row[String]("interest")}).toList
 
-    println(myFinalList)
+    println()
 
-    myFinalList = myFinalList.sortBy(x=> x._1)
-
-    for (i <-0 until myFinalList.length){
-      if (i == 0){
-        print(myFinalList(i)._1 + ": " + myFinalList(i)._2 + " ")
-      }
-      else {
-        if (myFinalList(i)._1 == myFinalList(i-1)._1){
-          print(myFinalList(i)._2 + " ")
+    println("Results: ")
+    if (!myFinalList.isEmpty) {
+      myFinalList = myFinalList.sortBy(x=> x._1)
+      for (i <- 0 until myFinalList.length) {
+        if (i == 0) {
+          print(myFinalList(i)._1 + ": " + myFinalList(i)._2 + " ")
         }
         else {
-          println(myFinalList(i)._1 + ": " + myFinalList(i)._2 + " ")
+          if (myFinalList(i)._1 == myFinalList(i - 1)._1) {
+            print(myFinalList(i)._2 + " ")
+          }
+          else {
+            println(myFinalList(i)._1 + ": " + myFinalList(i)._2 + " ")
+          }
         }
       }
+      println()
     }
-
+    else {
+      println("There is no match.")
+    }
 
 
   }
