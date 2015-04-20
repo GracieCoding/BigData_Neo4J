@@ -1,7 +1,7 @@
 /**
  * Created by Gabriela & Grace on 3/26/2015.
  * The input for DbLoader is six files for the data (user, organization, distance, skill, interest, project).
- * All you input data use the same file names, headers, and formats.
+ * All your input data use the same file names, headers, and formats.
  */
 
 import org.anormcypher._
