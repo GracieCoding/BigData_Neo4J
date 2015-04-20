@@ -1,7 +1,7 @@
 /**
  * Created by Gabriela & Grace on 3/26/2015.
- * The input for DbLoader is six files for the data.
- * All you input data should use the same file names, headers, and formats.
+ * The input for DbLoader is six files for the data (user, organization, distance, skill, interest, project).
+ * All you input data use the same file names, headers, and formats.
  */
 
 import org.anormcypher._
@@ -33,20 +33,34 @@ object DbLoader {
     }
   }
 
-  def more(): Boolean ={
+  def more(x: String): Boolean ={
     var resp = ""
-    println("Would you like to continue?(y/n) ")
+    println(x + "(y/n) ")
     resp = Console.readLine()
+    while (resp != "n" && resp != "N" && resp != "y" && resp != "Y"){
+      println("Invalid response. " + x)
+      resp = Console.readLine()
+    }
     if (resp == "n" || resp == "N"){
       return false
     }
     return true
   }
 
-
+  def validDisChecker(x: String): String ={
+    var bool = x forall Character.isDigit
+    var temp = ""
+    while (bool == false){
+      println("Invalid input. Please enter a digit for the distance to search between organizations: ")
+      temp = Console.readLine()
+      bool = temp forall Character.isDigit
+    }
+    temp
+  }
 
   def main(args: Array[String]):  Unit = {
     implicit val connection = Neo4jREST()
+
     Cypher("match n optional match n-[r]-() delete n,r").execute()
 
     val command = "using periodic commit 1000 load csv from 'file:"
@@ -60,7 +74,8 @@ object DbLoader {
     var fileType = " "
 
     if (args.length == 0){
-      println("Usage: program path_To_InputFile path_To_InputFile2 path_To_InputFile3 path_To_InputFile4 path_To_InputFile5")
+      println("Usage for Windows: program C:/path/to/file.csv C:/path/to/file2.csv C:/path/to/file3.csv C:/path/to/file4.csv C:/path/to/file5.csv C:/path/to/file6.csv")
+      println("Usage for OSX or Unix: program ///path/to/file.csv ///path/to/file2.csv ///path/to/file3.csv ///path/to/file4.csv ///path/to/file5.csv ///path/to/file6.csv")
       System.exit(1)
 
     }
@@ -74,17 +89,15 @@ object DbLoader {
         case "interest" => interestFilePath =   args(i) + "'"
         case "skill" => skillFilePath =  args(i) + "'"
         case "project" => projectFilePath = args(i) + "'"
-        case _ => println("xxx")
+        case _ => println("unknown file")
       }
     }
-
 
     var commandCont = " as line create (:User {id: line[0], fname: line[1], lname: line[2]})"
     var fullCommand = command.concat(userFilePath).concat(commandCont)
 
     //opening user file and putting the data into database
     Cypher(fullCommand).execute()
-
     commandCont = " as line match (a: User{id: line[0]}) merge (or:Org {name: line[1]}) set or.type = line[2] create (a)-[r:belong_to]-> (or), (or)-[rr:has]->(a)"
     fullCommand = command.concat(orgFilePath).concat(commandCont)
 
@@ -97,7 +110,7 @@ object DbLoader {
     //opening distance file and putting the data into database
     Cypher(fullCommand).execute()
 
-    commandCont = " as line match (a: User{id: line[0]} ) merge (in:Interest {interest: line[1]}) create (a)-[r:interested_in {level: toFloat(line[2])}]->(in) return r"
+    commandCont = " as line match (a: User{id: line[0]} ) merge (in:Interest {interest: lower(line[1])}) create (a)-[r:interested_in {level: toFloat(line[2])}]->(in) return r"
     fullCommand = command.concat(interestFilePath).concat(commandCont)
 
     //opening interest file and putting the data into database
@@ -122,34 +135,35 @@ object DbLoader {
 
       var resp = Console.readLine()
       var input = " "
-      var dis:Float = 10;
+      var dis:Float = 0;
       resp match {
         case "qc" => println("Input user id: ")
           input = Console.readLine()
           println("Input distance search between organizations: ")
-          dis = Console.readFloat()
+          var temp = Console.readLine();
+
+          dis = validDisChecker(temp).toFloat
+          while (dis < 1){
+            println("Invalid input. Please enter a digit greater than 0 for distance to search between organizations: ")
+            temp = Console.readLine()
+            dis = validDisChecker(temp).toFloat
+          }
           query.queryCollaborator (input, dis)
         case "qcoc" => println("Input user id: ")
           input = Console.readLine()
-          println("What interest would you like to search?")
-          var interest=Console.readLine()
-          var interestList:List[String]=List()
-          interestList = interestList :+ interest
-          var more="y"
-          while(more=="y") {
-            println("Would you like to search another interest(y/n)?")
-            more=Console.readLine()
-            if(more=="y"){
-              println("What interest:")
-              interest=Console.readLine()
-              interestList = interestList :+ interest
-            }
-          }
+          var interestList: List[String] = List()
+          do {
+            println("What interest would you like to search?")
+            var interest = Console.readLine()
+            interest = interest.toLowerCase
+            interestList = interestList :+ interest
+          }while (more("Would you like to search for another interest?"))
+
           secondQuery.colOfcol(input,interestList)
         case _ => println("Invalid action")
       }
 
-    }while (more());
+    }while (more("Would you like to continue?"));
 
   }
 }

@@ -4,7 +4,7 @@
  * as the query user or in an organization that is within the input distance, and has the same interest/skill as the query user.
  * The outputs are a list of user names, their common interests (skills) shared with the query user, ranked interest/skill weights. The formula for ranked common interest is the sum
  * of the interest level between the two user. For example, if user j and k has interest i with the weight wji (wji>0) and wki (wki>0), respectively, the common interest weight between user j
- * and k will be wji+wki. The forumla for the ranked common skill is the max between the skill levels of two users.
+ * and k will be wji+wki. The formula for the ranked common skill is the max between the skill levels of two users.
  * The individuals should be ranked by the total weight of shared interests (or skills) with the user.
  */
 
@@ -30,9 +30,9 @@ class QueryCollaborator {
     var infoList: List[(BigDecimal, List[((((String, String),String), BigDecimal), String)])] = List()
     var sum: BigDecimal = 0
 
-    val myMap = myList.groupBy(x => x._1._1._1)
+    val myOtherList = myList.groupBy(x => x._1._1._1)
 
-    for (i<- myMap){
+    for (i<- myOtherList){
       sum = 0
       for (j <-0 until i._2.length) {
         sum += i._2(j)._1._2
