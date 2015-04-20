@@ -8,6 +8,11 @@ import org.anormcypher._
 
 object DbLoader {
 
+  /**
+   * This function returns what type of file it is based on the path to the file.
+   * @param fileName A string that contains the the path to the file.
+   * @return A string stating the type of file it is based on keyword from the path to file.
+   */
   def whatFile(fileName: String ): String = {
 
     if (fileName.contains("user")){
@@ -33,6 +38,11 @@ object DbLoader {
     }
   }
 
+  /**
+   * Ths function checks to see if the user wants to continue the last operation.
+   * @param x A string, tailored to the last operation, asking if the user wants to continue.
+   * @return A boolean indicating whether the user wants to continue.
+   */
   def more(x: String): Boolean ={
     var resp = ""
     println(x + "(y/n) ")
@@ -47,13 +57,28 @@ object DbLoader {
     return true
   }
 
+  /**
+   * This function checks if a input provided by the user is a number.
+   * @param x A string that is the user's input.
+   * @return A string containing the proper input, a number.
+   */
   def validDisChecker(x: String): String ={
-    var bool = x forall Character.isDigit
-    var temp = ""
+    var temp = x
+    var bool = true;
+    for (i <-0 until temp.length){
+      if (!temp(i).isDigit && temp(i) != '.'){
+        bool = false;
+      }
+    }
     while (bool == false){
       println("Invalid input. Please enter a digit for the distance to search between organizations: ")
       temp = Console.readLine()
-      bool = temp forall Character.isDigit
+      bool = true;
+      for (i <-0 until x.length){
+        if (!temp(i).isDigit && temp(i) != '.'){
+          bool = false;
+        }
+      }
     }
     temp
   }
