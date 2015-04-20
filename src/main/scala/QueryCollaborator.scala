@@ -30,27 +30,32 @@ class QueryCollaborator {
     var infoList: List[(BigDecimal, List[((((String, String),String), BigDecimal), String)])] = List()
     var sum: BigDecimal = 0
 
-    val myOtherList = myList.groupBy(x => x._1._1._1)
+    if (!myList.isEmpty) {
+      val myOtherList = myList.groupBy(x => x._1._1._1)
 
-    for (i<- myOtherList){
-      sum = 0
-      for (j <-0 until i._2.length) {
-        sum += i._2(j)._1._2
+      for (i <- myOtherList) {
+        sum = 0
+        for (j <- 0 until i._2.length) {
+          sum += i._2(j)._1._2
+        }
+        infoList = infoList :+(sum, i._2)
       }
-      infoList = infoList :+ (sum, i._2)
-    }
 
-    infoList = infoList.sortBy(x=> x._1)
-    println()
-    println("Ordered by Total Ranking (full name => interest/skill -> ranked level => Organization)")
-    for (i <-infoList.length-1 to 0 by -1){
-      println(infoList(i)._1)
-      print("" + '\t' + infoList(i)._2(0)._1._1._1._1 + " " + infoList(i)._2(0)._1._1._1._2 + " => ")
-      for (j <- 0 until infoList(i)._2.length){
-        print(infoList(i)._2(j)._1._1._2 + "->" + infoList(i)._2(j)._1._2 + " ")
-      }
-      print("=> " + infoList(i)._2(0)._2)
+      infoList = infoList.sortBy(x => x._1)
       println()
+      println("Ordered by Total Ranking (full name => interest/skill -> ranked level => Organization)")
+      for (i <- infoList.length - 1 to 0 by -1) {
+        println(infoList(i)._1)
+        print("" + '\t' + infoList(i)._2(0)._1._1._1._1 + " " + infoList(i)._2(0)._1._1._1._2 + " => ")
+        for (j <- 0 until infoList(i)._2.length) {
+          print(infoList(i)._2(j)._1._1._2 + "->" + infoList(i)._2(j)._1._2 + " ")
+        }
+        print("=> " + infoList(i)._2(0)._2)
+        println()
+      }
+    }
+    else {
+      println("There is no match found.")
     }
 
   }

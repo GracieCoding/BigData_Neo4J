@@ -14,3 +14,4 @@ libraryDependencies ++= Seq("org.anormcypher" %% "anormcypher" % "0.6.0")
 
 libraryDependencies += "org.slf4j" % "slf4j-simple" % "1.6.4"
 
+libraryDependencies += "org.scala-lang" % "scala-actors" % "2.11.6"

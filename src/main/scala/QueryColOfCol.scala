@@ -49,7 +49,7 @@ class QueryColOfCol {
       println()
     }
     else {
-      println("There is no match.")
+      println("There is no match found.")
     }
 
 

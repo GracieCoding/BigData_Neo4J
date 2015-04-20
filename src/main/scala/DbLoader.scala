@@ -5,6 +5,8 @@
  */
 
 import org.anormcypher._
+import scala.actors.Actor._
+import scala.actors.Actor
 
 object DbLoader {
 
@@ -86,6 +88,7 @@ object DbLoader {
   def main(args: Array[String]):  Unit = {
     implicit val connection = Neo4jREST()
 
+
     Cypher("match n optional match n-[r]-() delete n,r").execute()
 
     val command = "using periodic commit 1000 load csv from 'file:"
@@ -123,36 +126,57 @@ object DbLoader {
 
     //opening user file and putting the data into database
     Cypher(fullCommand).execute()
-    commandCont = " as line match (a: User{id: line[0]}) merge (or:Org {name: line[1]}) set or.type = line[2] create (a)-[r:belong_to]-> (or), (or)-[rr:has]->(a)"
-    fullCommand = command.concat(orgFilePath).concat(commandCont)
 
-    //opening organization file and putting data into database
-    Cypher(fullCommand).execute()
 
-    commandCont = " as line match (a: Org {name: line[0]}), (b:Org {name: line[1]}) create (a)-[r:distance{dis: toFloat(line[2])}]->(b), (b)-[rr:distance{dis: toFloat(line[2])}]->(a) return r,rr"
-    fullCommand = command.concat(disFilepath).concat(commandCont)
 
-    //opening distance file and putting the data into database
-    Cypher(fullCommand).execute()
+    val myOrgActor = actor {
+      commandCont = " as line match (a: User{id: line[0]}) merge (or:Org {name: line[1]}) set or.type = line[2] create (a)-[r:belong_to]-> (or), (or)-[rr:has]->(a)"
+      fullCommand = command.concat(orgFilePath).concat(commandCont)
 
-    commandCont = " as line match (a: User{id: line[0]} ) merge (in:Interest {interest: lower(line[1])}) create (a)-[r:interested_in {level: toFloat(line[2])}]->(in) return r"
-    fullCommand = command.concat(interestFilePath).concat(commandCont)
+      //opening organization file and putting data into database
+      Cypher(fullCommand).execute()
+    }
 
-    //opening interest file and putting the data into database
-    Cypher(fullCommand).execute()
+    val myInterestActor = actor {
+      commandCont = " as line match (a: User{id: line[0]} ) merge (in:Interest {interest: lower(line[1])}) create (a)-[r:interested_in {level: toFloat(line[2])}]->(in) return r"
+      fullCommand = command.concat(interestFilePath).concat(commandCont)
 
-    commandCont = " as line match (a: User {id: line[0]}) merge (sk:Skill {skill: line[1]}) create (a)-[r:skilled_at {level: toFloat(line[2])}]->(sk)  return r"
-    fullCommand = command.concat(skillFilePath).concat(commandCont)
+      //opening interest file and putting the data into database
+      Cypher(fullCommand).execute()
+    }
 
-    //opening skill file and putting the data into database
-    Cypher(fullCommand).execute()
+    val mySkillActor = actor {
+      commandCont = " as line match (a: User {id: line[0]}) merge (sk:Skill {skill: line[1]}) create (a)-[r:skilled_at {level: toFloat(line[2])}]->(sk)  return r"
+      fullCommand = command.concat(skillFilePath).concat(commandCont)
 
-    commandCont = " as line match (a: User {id: line[0]}) merge (pj:Project {project: line[1]}) create (a)-[r:worked_on]->(pj), (pj)-[rr:workers]->(a)"
-    fullCommand = command.concat(projectFilePath).concat(commandCont)
+      //opening skill file and putting the data into database
+      Cypher(fullCommand).execute()
+    }
 
-    //opening project file and putting the data into database
-    Cypher(fullCommand).execute()
+    val myProjectActor = actor {
+      commandCont = " as line match (a: User {id: line[0]}) merge (pj:Project {project: line[1]}) create (a)-[r:worked_on]->(pj), (pj)-[rr:workers]->(a)"
+      fullCommand = command.concat(projectFilePath).concat(commandCont)
 
+      //opening project file and putting the data into database
+      Cypher(fullCommand).execute()
+    }
+
+
+    while (myOrgActor.getState != Actor.State.Terminated){
+
+    }
+
+    //val myDisActor = actor {
+      commandCont = " as line match (a: Org {name: line[0]}), (b:Org {name: line[1]}) create (a)-[r:distance{dis: toFloat(line[2])}]->(b), (b)-[rr:distance{dis: toFloat(line[2])}]->(a) return r,rr"
+      fullCommand = command.concat(disFilepath).concat(commandCont)
+
+      //opening distance file and putting the data into database
+      Cypher(fullCommand).execute()
+    //}
+
+    while (mySkillActor.getState != Actor.State.Terminated && myInterestActor.getState != Actor.State.Terminated && myProjectActor.getState != Actor.State.Terminated){
+
+    }
     val query = new QueryCollaborator()
     val secondQuery = new QueryColOfCol()
     do {
