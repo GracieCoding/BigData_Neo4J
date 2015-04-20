@@ -174,7 +174,7 @@ object DbLoader {
       Cypher(fullCommand).execute()
     //}
 
-    while (mySkillActor.getState != Actor.State.Terminated && myInterestActor.getState != Actor.State.Terminated && myProjectActor.getState != Actor.State.Terminated){
+    while (mySkillActor.getState != Actor.State.Terminated || myInterestActor.getState != Actor.State.Terminated || myProjectActor.getState != Actor.State.Terminated){
 
     }
     val query = new QueryCollaborator()
